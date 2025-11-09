@@ -22,8 +22,8 @@ Cocok untuk:
 | Fungsi | Modularisasi program menggunakan `function` |
 | Pointer (opsional) | Mengenal alamat memori |
 | Struktur Data Dasar | `struct`, array of struct, menu sederhana |
-dan Masih Banyak Lainnya
 ---
+dan Masih Banyak Lainnya
 
 ## ▶️ Cara Menjalankan Program
 
