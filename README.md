@@ -22,27 +22,7 @@ Cocok untuk:
 | Fungsi | Modularisasi program menggunakan `function` |
 | Pointer (opsional) | Mengenal alamat memori |
 | Struktur Data Dasar | `struct`, array of struct, menu sederhana |
-
----
-
-## 📂 Struktur Folder (Ringkasan)
-
-> **Contoh (sesuaikan jika berbeda):**
-
-```
-Pemrograman-Dasar-Cpp/
-├── 01-hello-world.cpp
-├── 02-variable.cpp
-├── 03-percabangan/
-│   ├── if-else.cpp
-│   └── switch-case.cpp
-├── 04-perulangan/
-│   ├── for.cpp
-│   ├── while.cpp
-│   └── do-while.cpp
-└── README.md
-```
-
+dan Masih Banyak Lainnya
 ---
 
 ## ▶️ Cara Menjalankan Program
